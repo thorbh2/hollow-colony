@@ -2,3 +2,4 @@
 
 - 2023-09-29: optimize tokenURI loop
 - 2023-09-29: add frontend skeleton
+- 2023-10-05: update contract compiler
