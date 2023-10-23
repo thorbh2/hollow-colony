@@ -5,3 +5,4 @@
 - 2023-10-05: update contract compiler
 - 2023-10-22: update README with setup instructions
 - 2023-10-23: update license headers
+- 2023-10-23: refactor contract for gas efficiency
