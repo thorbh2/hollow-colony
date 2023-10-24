@@ -7,3 +7,4 @@
 - 2023-10-23: update license headers
 - 2023-10-23: refactor contract for gas efficiency
 - 2023-10-23: fix mint logic edge case
+- 2023-10-24: add CI workflow
