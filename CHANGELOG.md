@@ -10,3 +10,4 @@
 - 2023-10-24: add CI workflow
 - 2023-10-25: style landing page
 - 2023-10-25: update contract compiler
+- 2023-10-25: update license headers
