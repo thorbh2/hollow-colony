@@ -11,3 +11,4 @@
 - 2023-10-25: style landing page
 - 2023-10-25: update contract compiler
 - 2023-10-25: update license headers
+- 2023-10-28: document deployment steps
